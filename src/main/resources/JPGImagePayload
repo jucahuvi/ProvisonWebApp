@@ -1,0 +1,16 @@
+{
+  "RCSMessage": {
+    "expiry": "2018-03-25T12:17:07Z",
+    "timestamp": "2018-03-04T12:16:49-05:00",
+    "fileMessage": {
+
+      "filename": "sale.jpg",
+      "fileUrl": "https://image.shutterstock.com/shutterstock/photos/1021561789/display_1500/stock-photo-businessman-on-blurred-background-using-digital-chatbot-robot-application-d-rendering-1021561789.jpg",
+      "fileMIMEType": "image/jpeg",
+      "fileSize": "934425"
+    }
+  },
+  "messageContact": {
+   "userContact": "{{msisdn_pro}}"
+  }
+}

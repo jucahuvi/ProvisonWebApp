@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'webhookrcstefes2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0E4D36C6F99844F3A04A506C901FB2C3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D6985366F92449869313BAC8D57ED287 }}
           package: '*.war'
